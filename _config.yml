@@ -1,0 +1,9 @@
+# Site settings
+title: g3hP2,2-2 new blog example
+author:
+  name: kT
+  email: k40t1c4@gmail.com
+description: "starter site, Jekyll on gHp from g3hP2x"
+
+# Build settings
+remote_theme: jekyll/minima
